@@ -1,0 +1,75 @@
+[
+    {
+        "module": "Fill", 
+        "size": {
+            ".data": 0, 
+            ".bss": 28, 
+            ".text": 72
+        }
+    }, 
+    {
+        "module": "Misc", 
+        "size": {
+            ".data": 2536, 
+            ".bss": 440, 
+            ".text": 54011
+        }
+    }, 
+    {
+        "module": "drivers", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 1057
+        }
+    }, 
+    {
+        "module": "hal", 
+        "size": {
+            ".data": 0, 
+            ".bss": 24, 
+            ".text": 697
+        }
+    }, 
+    {
+        "module": "platform", 
+        "size": {
+            ".data": 8, 
+            ".bss": 378, 
+            ".text": 3156
+        }
+    }, 
+    {
+        "module": "rtos", 
+        "size": {
+            ".data": 4, 
+            ".bss": 4360, 
+            ".text": 685
+        }
+    }, 
+    {
+        "module": "rtos/rtx5", 
+        "size": {
+            ".data": 176, 
+            ".bss": 1368, 
+            ".text": 8268
+        }
+    }, 
+    {
+        "module": "targets/TARGET_Freescale", 
+        "size": {
+            ".data": 4, 
+            ".bss": 38, 
+            ".text": 2831
+        }
+    }, 
+    {
+        "summary": {
+            "total_flash": 73505, 
+            "static_ram": 9364, 
+            "stack": 128, 
+            "heap": 128, 
+            "total_ram": 9620
+        }
+    }
+]
